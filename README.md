@@ -18,3 +18,7 @@ Count lines of code in *.java and *.js files in a directory:
 ```
 LinesOfCodeCounter.exe c:\path\to\directory java js
 ```
+Example result:
+```
+Lines of code: 362
+```
