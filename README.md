@@ -9,12 +9,12 @@ Count lines of code in a file:
 ```
 LinesOfCodeCounter.exe c:\path\to\file.cs
 ```
-Count lines of code in *.cs files in directory:
+Count lines of code in *.cs files in a directory:
 
 ```
 LinesOfCodeCounter.exe c:\path\to\directory cs
 ```
-Count lines of code in *.java and *.js files in directory:
+Count lines of code in *.java and *.js files in a directory:
 ```
 LinesOfCodeCounter.exe c:\path\to\directory java js
 ```
