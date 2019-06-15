@@ -1,10 +1,10 @@
 # Lines Of Code Counter
 
-Command-line tool for counting lines of code in file or directory.
+A command-line tool for counting lines of code in a file or directory.
 
 # How to use
 
-Count lines of code in file:
+Count lines of code in a file:
 
 ```
 LinesOfCodeCounter.exe c:\path\to\file.cs
